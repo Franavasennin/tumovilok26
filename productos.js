@@ -1,0 +1,10 @@
+export const PRODUCTOS_DEFAULT = [
+  { id: "1", nombre: "Funda Silicona iPhone", precio: "9,99 €", img: "https://images.unsplash.com/photo-1603313011101-320f26a4f6f6?w=400&auto=format&fit=crop&q=80", cat: "Fundas", desc: "Funda de silicona suave para iPhone. Protección contra golpes." },
+  { id: "2", nombre: "Protector Pantalla Samsung", precio: "5,99 €", img: "https://images.unsplash.com/photo-1600087626014-e652e18bbff2?w=400&auto=format&fit=crop&q=80", cat: "Protectores", desc: "Cristal templado 9H para Samsung Galaxy." },
+  { id: "3", nombre: "Cargador Rápido USB-C", precio: "14,99 €", img: "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?w=400&auto=format&fit=crop&q=80", cat: "Cargadores", desc: "Cargador 20W con carga rápida. Compatible con todos los dispositivos USB-C." },
+  { id: "4", nombre: "Auriculares Bluetooth", precio: "19,99 €", img: "https://images.unsplash.com/photo-1590658268037-6bf12f032f55?w=400&auto=format&fit=crop&q=80", cat: "Audio", desc: "Auriculares inalámbricos con estuche de carga. Batería 4h." },
+  { id: "5", nombre: "Cable Lightning 2m", precio: "7,99 €", img: "https://images.unsplash.com/photo-1618520422828-5b26e4c2ab88?w=400&auto=format&fit=crop&q=80", cat: "Cables", desc: "Cable Lightning reforzado de 2 metros para iPhone." },
+  { id: "6", nombre: "Power Bank 10000mAh", precio: "24,99 €", img: "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=400&auto=format&fit=crop&q=80", cat: "Baterías", desc: "Batería externa 10000mAh. Carga 2 dispositivos a la vez." },
+  { id: "7", nombre: "Soporte Coche Magnético", precio: "11,99 €", img: "https://images.unsplash.com/photo-1544866092-1935c5ef2a8f?w=400&auto=format&fit=crop&q=80", cat: "Accesorios", desc: "Soporte magnético para rejilla de ventilación del coche." },
+  { id: "8", nombre: "Funda Cartera Samsung", precio: "12,99 €", img: "https://images.unsplash.com/photo-1586953208270-767889db7b5b?w=400&auto=format&fit=crop&q=80", cat: "Fundas", desc: "Funda tipo cartera con espacio para tarjetas." },
+];
